@@ -1,0 +1,41 @@
+{
+  "name": "sinner-bot",
+  "version": "1.0.0",
+  "description": "The sin Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NekoMF/SinDiscordBot.git"
+  },
+  "keywords": [
+    "Snek"
+  ],
+  "author": "Snek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NekoMF/SinDiscordBot/issues"
+  },
+  "homepage": "https://github.com/NekoMF/SinDiscordBot#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.8.2",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "canvacord": "^5.2.3",
+    "canvas": "^2.8.0",
+    "discord-api-types": "^0.24.0",
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.0.13",
+    "mongoose-long": "^0.5.0",
+    "ms": "^2.1.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0"
+  },
+  "engines": {
+    "node": "16.13.0",
+    "npm": "*"
+  }
+}

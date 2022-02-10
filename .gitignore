@@ -1,0 +1,6 @@
+.env
+node_modules
+README.txt
+commands/Economy/update.js
+commands/Moderation/prune.js
+

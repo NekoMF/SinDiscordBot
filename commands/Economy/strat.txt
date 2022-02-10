@@ -1,0 +1,40 @@
+Dreamer Peak 
+x1.1 common rat
+
+Rathole Town
+x1.3 common 
+
+Whitecliff Fort 
+x1.05 rare
+
+Water Heaven
+x1.6 common
+
+Ratline
+1.2 epic
+
+x1.5 common
+x1.1 rare
+
+Spring River Falls 
+x2 common
+
+
+Icefall Mountains 
+x1.2 rare
+x1.5 epic
+
+Greenstone Valley
+x2.0 epic
+
+
+Sun Valley City
+x1.77 exotic 
+
+Old Tavern 
+x4.0 epic 
+x3.3 exotic
+
+Holy Castle 
+x9.9 legendary 
+x4.2 exotic
